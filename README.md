@@ -2,8 +2,6 @@
 
 ## The task
 
-## Getting Started
-
 Write a program that accepts an array whose members are all strings.
 The program will arrange the array according to the length of the string from largest to smallest.
 To find the length of a string you can use str.length()
@@ -11,9 +9,14 @@ To find the length of a string you can use str.length()
 The program should not be considered 
 
 for example:
+
 {"dog", "pigeon", "cat", "caterpillar", "mouse"}
+
 will become:
+
 {"caterpillar", "pigeon", "mouse", "cat", "dog"}
+
+## Getting Started
    
 ### Installation
 
