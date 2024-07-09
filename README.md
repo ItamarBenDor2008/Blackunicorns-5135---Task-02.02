@@ -6,15 +6,11 @@ Write a program that accepts an array whose members are all strings.
 The program will arrange the array according to the length of the string from largest to smallest.
 To find the length of a string you can use str.length()
 
-The program should not be considered 
+The program should not consider efficiency.
 
-for example:
+for example: {"dog", "pigeon", "cat", "caterpillar", "mouse"}
 
-{"dog", "pigeon", "cat", "caterpillar", "mouse"}
-
-will become:
-
-{"caterpillar", "pigeon", "mouse", "cat", "dog"}
+will become: {"caterpillar", "pigeon", "mouse", "cat", "dog"}
 
 ## Getting Started
    
